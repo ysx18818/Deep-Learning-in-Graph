@@ -1,4 +1,4 @@
-# Deep-Learning-in-Graph
+# Deep-Learning-On-Graphs
 2019.7  713暑期班
 
 
